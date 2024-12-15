@@ -3,7 +3,7 @@
 I'm CrystalViking, a passionate Programmer, Game Designer, AI Enthusiast
 
 ## 💀 About Me
-- 💻 Tech and Tools: C#/.NET, Python, C/C++, Java, AI, Edge AI, ML, DL, Computer Vision, Raspberry Pi, PyTorch, scikit-learn, TensorFlow
+- 💻 Tech and Tools: C#/.NET, Python, C/C++, Java, JavaScript, HTML, CSS, AI, Edge AI, ML, DL, Computer Vision, Raspberry Pi, PyTorch, scikit-learn, TensorFlow
 - 🛸 Cool Projects: VoidPirate (aka "Lost Beyond") https://github.com/CrystalViking/VoidPirate
 - 🕵️ Searching for a spaceship crew position opportunity for a next big adventure 
 
